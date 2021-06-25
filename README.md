@@ -20,11 +20,11 @@ The following **required** functionality is completed:
 The following **bonus** features are implemented:
 
 * [x] **Additional UI features** were added: 
-        - rounded edges for images
-        - change of color to background and toolbar
-        - movie overview was made scrollable
-        - rating number appears next to the rating bar
-        - back button was added to the details screen for easier navigation in app
+        * rounded edges for images
+        * change of color to background and toolbar
+        *  movie overview was made scrollable
+        * rating number appears next to the rating bar
+        * back button was added to the details screen for easier navigation in app
 * [x] User can **view movie trailer** within the app. Video is displayed using a **thumbnail** image and an android play icon. 
 
 ## Video Walkthrough
