@@ -12,10 +12,10 @@ Time spent: **10** hours spent in total
 The following **required** functionality is completed:
 
 * [x] User can **view and scroll through a list of movies** with information such as movie poster, title, and overview
-* [x] User can use the app in both landscape and portrait mode
-* [x] User can view a placeholder graphic while the movie images are being loaded
+* [x] User can use the app in both **landscape and portrait mode**
+* [x] User can view a **placeholder graphic** while the movie images are being loaded
 * [x] User's list of movies **remains up to date** through the use of an API to access a movie data base
-* [x] User can view a details page with more information for the movie that was clicked
+* [x] User can view a **details page** with more information for the movie that was clicked
 
 The following **bonus** features are implemented:
 
@@ -31,17 +31,17 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='FlixsterDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [Kap](https://getkap.co/).
+GIF created with [LiceCAP](https://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Adding the trailer feature became quite complex and I had difficulty arsing the access url correctly. Once I did, however, the video retrieval was similar to the data retrieval accomplished initiallly. The runded edges feature cause some formatting issues that I had to make sure to handle.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Tess Van Daele]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
