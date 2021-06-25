@@ -19,12 +19,14 @@ The following **required** functionality is completed:
 
 The following **bonus** features are implemented:
 
-* [x] **Additional UI features** were added: 
-        * rounded edges for images
-        * change of color to background and toolbar
-        *  movie overview was made scrollable
-        * rating number appears next to the rating bar
-        * back button was added to the details screen for easier navigation in app
+* [x] **Additional UI features** were added:
+ 
+        - rounded edges for images
+        - change of color to background and toolbar
+        - movie overview was made scrollable
+        - rating number appears next to the rating bar
+        - back button was added to the details screen for easier navigation in app
+
 * [x] User can **view movie trailer** within the app. Video is displayed using a **thumbnail** image and an android play icon. 
 
 ## Video Walkthrough
@@ -37,7 +39,7 @@ GIF created with [LiceCAP](https://www.cockos.com/licecap/).
 
 ## Notes
 
-Adding the trailer feature became quite complex and I had difficulty parsing the access url correctly. Once I did, however, the video retrieval was similar to the data retrieval accomplished initiallly. The rounded edges feature caused some formatting issues that I had to make sure to handle.
+Adding the trailer feature became quite complex and I had difficulty parsing the access url correctly. Once I did, however, the video retrieval was similar to the data retrieval accomplished initiallly. The rounded edges feature caused some formatting issues that I had to account for.
 
 ## License
 
