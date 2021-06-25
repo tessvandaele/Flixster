@@ -5,7 +5,7 @@ on each movie such as movie poster, title, overview, rating, and trailer.
 
 Submitted by: **Tess Van Daele**
 
-Time spent: **10** hours spent in total
+Time spent: **12** hours spent in total
 
 ## User Stories
 
